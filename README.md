@@ -1,6 +1,6 @@
 # neural-style
 
-for understanding:
+文章:
 http://hacker.duanshishi.com/?p=1651
 
 An implementation of [neural style][paper] in TensorFlow.
