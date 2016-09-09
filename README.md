@@ -1,5 +1,8 @@
 # neural-style
 
+for understanding:
+http://hacker.duanshishi.com/?p=1651
+
 An implementation of [neural style][paper] in TensorFlow.
 
 This implementation is a lot simpler than a lot of the other ones out there,
